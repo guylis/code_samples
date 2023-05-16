@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArchitecturesSamplesActivity</string>
+    <string name="display_button_counter">increase counter</string>
+    <string name="display_text_counter">pressed %d times</string>
+    <string name="display_text_mvc_title">Model View Controller</string>
+    <string name="display_text_mvp_title">Model View Presenter</string>
+    <string name="display_text_mvvm_title">Model View View-Model</string>
+    <string name="display_name_input_label">Enter Your Name</string>
+    <string name="display_name_label">Hi %s</string>
+</resources>
